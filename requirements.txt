@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-biopython
-MDAnalysis
-plotly
-matplotlib
-seaborn
